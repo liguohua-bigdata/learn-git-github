@@ -11,6 +11,9 @@
     http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000
     2.比较好的书籍
     详细见book目录，其中比较优秀的是《GitHub入门与实战.pdf》
+    3.git官方教程
+    https://git-scm.com/book/zh/v1
+    https://github.com/schacon
 ---
 ####三.联系方式
     email:2818461312@qq.com
